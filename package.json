@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.80",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.12.2",
+    "better-sqlite3": "^12.4.1",
+    "cron": "^4.3.3",
+    "discord-oauth2": "^2.12.1",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.3",
+    "emoji-regex": "^10.2.1",
+    "express": "^5.1.0",
+    "quick.db": "^9.1.7"
+  },
+  "devDependencies": {
+    "glob": "^11.0.3",
+    "javascript-obfuscator": "^4.1.1",
+    "minimist": "^1.2.8"
+  },
+  "name": "nextdactyl",
+  "version": "1.0.0",
+  "description": "![GitHub License](https://img.shields.io/github/license/NextDevelopments/NextDactyl?style=for-the-badge)\r ![Node.js Version](https://img.shields.io/badge/Node.js-20.x-green?style=for-the-badge)\r ![Discord.js](https://img.shields.io/badge/discord.js-v14-blue?style=for-the-badge)\r ![NextDevelopments](https://img.shields.io/badge/Made%20by-Next%20Developments-9cf?style=for-the-badge)",
+  "main": "bot.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlyjstn/nextdactyl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/onlyjstn/nextdactyl/issues"
+  },
+  "homepage": "https://github.com/onlyjstn/nextdactyl#readme"
+}
